@@ -4,6 +4,8 @@ Repository with datasets, some scripts and .txt files corresponding to article "
 
 https://doi.org/10.5281/zenodo.11307291
 
+# Description
+
 This repository contains the datasets of the article “Linguistic Complexity and Economic Development”
 
 IQ y PPP: Contains the data of IQ and GDP PPP per capita for the given countries.
