@@ -1,6 +1,7 @@
 # LC-and-ED
 Repository with datasets, some scripts and .txt files corresponding to article "Linguistic Complexity and Economic Development"
-#DOI
+# DOI
+
 https://doi.org/10.5281/zenodo.11307291
 
 This repository contains the datasets of the article “Linguistic Complexity and Economic Development”
